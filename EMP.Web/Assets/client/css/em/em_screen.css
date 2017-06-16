@@ -1,0 +1,52 @@
+body{background:#fff url(../../../images.vietnamworks.com/rc_home/bkg_bodyNormal.gif) repeat-x;color:#555;font-family:Verdana,Arial,Helvetica,sans-serif;margin:0}
+body.printPage{background:0 0;margin:0 auto}
+ul{margin-left:20px;list-style-type:disc}
+ol{margin-left:20px}
+#header{margin:0 auto;width:950px}
+#headerBar{height:130px;padding:0;clear:both}
+#stats{color:#fff;float:left;margin:0;padding:5px 0 7px}
+#headerToJS{background:url(../../../images.vietnamworks.com/rc_home/bkg_toJobSeeker.gif) no-repeat 100% 100% #000;float:right;margin:0;padding-right:15px;text-align:right}
+#headerToJS a{background:url(../../../images.vietnamworks.com/rc_home/bkg_toJobSeeker.gif) no-repeat 0 100% #000;color:#ff0;display:block;font-weight:700;padding:13px 0 13px 15px;text-decoration:none}
+#headerLang{background:url(../../../images.vietnamworks.com/rc_home/bkg_headerLang.gif) no-repeat;float:right;margin:3px 5px 0 0;padding:2px 5px 9px;text-align:center;width:70px}
+#headerLang a{color:#fff;text-decoration:none}
+.logo_vnwEmp{float:left;padding:0 50px 0 0;clear:both;margin-top:-7px}
+#headerBanner{float:left;padding-top:10px;width:590px}
+#vnwemp_nav{background:#5cadd6;height:29px}
+ul.vnwemp_mainnav{list-style-type:none;margin:0;padding:5px 0 0}
+ul.vnwemp_mainnav li a{color:#333;display:inline-block;float:left;font-weight:700;height:20px;padding:0 0 0 4px;text-decoration:none;text-transform:uppercase}
+ul.vnwemp_mainnav li a.menuactive{background:url(../../../images.vietnamworks.com/rc_home/vnwemp_mainnav_over.gif) no-repeat 0 -24px}
+ul.vnwemp_mainnav li a.menuactive span{background:url(../../../images.vietnamworks.com/rc_home/vnwemp_mainnav_over.gif) no-repeat 100% -24px}
+#vnwemp_nav_sub{height:30px}
+ul.vnwemp_subnav{float:left;list-style-type:none;margin:0;padding:6px 0 0}
+ul.vnwemp_subnav li a{color:#fff;display:block;float:left;font-weight:700;height:15px;line-height:13px;padding:0 0 4px 4px;text-decoration:none;width:100%}
+ul.vnwemp_subnav li a.subactive,ul.vnwemp_subnav li a:hover{background:url(../../../images.vietnamworks.com/rc_home/vnwemp_mainnav_over.gif) no-repeat 0 -48px;color:#fff;text-decoration:none}
+.vnwemp_subright{float:right;padding-top:10px}
+.vnwemp_subright a,.vnwemp_subright a:visited{color:#fff!important;text-decoration:underline}
+.vnwemp_subright a:hover{color:#ff0}
+.content{padding:0 0 10px}
+#footer{background:#939598;border-top:1px solid #cdcdcd;color:#fff;margin:0;min-width:980px;padding:10px 0}
+#footerWrapper{background:#939598;margin:0 auto;width:980px}
+.listStyleFooterMenu{padding-bottom:10px;text-align:center}
+.listStyleFooterMenu li{border-right:1px solid #fff;display:inline;padding:0 5px 0 7px}
+.listStyleFooterMenu li.last{border-right:none}
+#footer a{color:#fff;text-decoration:underline}
+#footer a:hover{color:#ff0}
+#headerLang a:hover,#headerToJS a:hover{text-decoration:underline}
+ul.vnwemp_mainnav li,ul.vnwemp_subnav li{float:left;margin-right:5px}
+ul.vnwemp_mainnav li a span,ul.vnwemp_subnav li a span{display:block;padding:3px 11px 4px 7px}
+ul.vnwemp_mainnav li a.menuactive:hover,ul.vnwemp_mainnav li a:hover{background:url(../../../images.vietnamworks.com/rc_home/vnwemp_mainnav_over.gif) no-repeat 0 0;color:#0cf;text-decoration:none}
+ul.vnwemp_mainnav li a.menuactive:hover span,ul.vnwemp_mainnav li a:hover span{background:url(../../../images.vietnamworks.com/rc_home/vnwemp_mainnav_over.gif) no-repeat 100% 0}
+ul.vnwemp_subnav li a.subactive span,ul.vnwemp_subnav li a:hover span{background:url(../../../images.vietnamworks.com/rc_home/vnwemp_mainnav_over.gif) no-repeat 100% -48px}
+a{-webkit-transition:color .3s;transition:color .3s}
+a:active,a:link,a:visited{color:#069}
+a:hover{color:#f7941d}
+
+
+.guarantee-program {font-size: 13px; margin: 30px 0;}
+.guarantee-program h1 {font-size: 22px; margin:30px 0!important; display: block; text-transform: uppercase}
+.guarantee-program .sub-title {font-size: 13px; text-transform: uppercase}
+.guarantee-program  ol {margin: 20px 0; display: block}
+.guarantee-program ol li {margin-top:20px; margin-bottom: 20px; margin-left: 0; list-style: upper-roman}
+.guarantee-program ol li ol li{
+    margin-left: 55px; list-style: decimal; margin-top: 5px; margin-bottom: 5px;
+}

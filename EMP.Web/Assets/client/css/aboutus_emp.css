@@ -1,0 +1,45 @@
+body {font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px}
+
+.aboutWrap {width:970px; margin:20px auto}
+.aboutWrap p {margin:10px 0; padding:0}
+.About_dotLine {background:url(../../images.vietnamworks.com/aboutus/AboutDotLine.gif) repeat-x 0 100%; padding-bottom:5px; margin-bottom:5px}
+.About_topLink {color:#f90; font-weight:bold; font-size:12px; margin-bottom:20px}
+.About_topLink a {color:#333; text-decoration:none}
+.About_topLink a:hover {color:#f90;}
+.About_topLink span {padding:0 5px}
+
+.About_picCol {width:288px; float:left; margin-right:50px; text-align:justify; margin-bottom:10px}
+	.About_picCol img {border:#006699 5px solid;}
+	.About_picCol .Pic { background:url(../../images.vietnamworks.com/aboutus/AboutBgPic_emp.gif) no-repeat 17px 100%; padding-bottom:16px}
+	.colLast {margin-right:0}
+.AboutTitle {color:#f90; font-size:14px; font-weight:bold; margin-bottom:5px}
+.AboutTitle img {margin-bottom:5px}
+
+.AboutCT {background:url(../../images.vietnamworks.com/aboutus/AboutDotLine.gif) repeat-x 0 0; margin-top:20px; padding-top:15px}
+.AboutCT a {color:#333; text-decoration:underline}
+.AboutCT a:hover {color:#f90}
+
+.AboutWrap2 {width:550px; margin:20px auto}
+.AboutLeader {background:url(../../images.vietnamworks.com/aboutus/aboutLeaderBg.jpg) no-repeat 50% 100%; padding-bottom:39px; margin-top:30px; text-align:center}
+
+.AboutPop {background:#e4e4e4 url(../../images.vietnamworks.com/aboutus/AboutPopBg.gif) repeat-x 0 100%; padding:5px 5px 1px 5px; width:623px}
+.AboutPop img {border:none}
+.AboutPop .title {font-weight:bold; color:#069}
+.AboutPop .title span {color:#f90}
+.AboutPop .close {color:#f60; text-decoration:none; font-weight:bold}
+	.AboutPop .AboutPopCT {background:#fff; padding:10px; margin-bottom:7px; height:1%}
+	.AboutPop .AboutPopCT img {float:left;}
+	.AboutPop .AboutPopCT .info {float:right; width:390px; text-align:justify}
+	.AboutPop .AboutPopCT a {color:#333}
+	.AboutPop .AboutPopCT a:hover {color:#f90}
+/*About Us V.2*/
+.about-inner {margin-bottom:40px;}
+.about-inner .row{overflow:hidden; margin-left:0}
+.about-inner .row > div {float:left; width:450px;}
+.about-inner .row > div:first-child{margin-right:60px}
+.about-inner  h3{color: #f90; margin: 10px 0; font-size:1.182em}
+.about-inner  h2{color: #00a9e0; margin: 10px 0; font-size:1.545em}
+.about-inner > .row{margin: 10px 0}
+.about-inner .values .row{margin: 25px 0}
+.about-inner .values .row.first{margin-top:15px}
+.about-inner .values h2{margin-top:10px; }
